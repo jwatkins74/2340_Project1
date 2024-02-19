@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\menu_main.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\layout_fragment_classes.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\fragment_classes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\layout_assignment_layout.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\assignment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\layout_fragment_b.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\fragment_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\layout_fragment_c_edit.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\fragment_c_edit.xml"
+    },
+    {
+        "merged": "com.example.a2340anothertry.app-merged_res-46:/layout_fragment_gallery.xml.flat",
+        "source": "com.example.a2340anothertry.app-main-48:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\layout_class_layout.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\class_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\layout_exam_layout.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\exam_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\layout_fragment_c.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\fragment_c.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\layout_fragment_a.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\fragment_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\layout_todo_layout.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\todo_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\layout_fragment_d.xml.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\fragment_d.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-merged_res-46:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\mipmap-hdpi\\ic_launcher_round.webp"
+    }
+]

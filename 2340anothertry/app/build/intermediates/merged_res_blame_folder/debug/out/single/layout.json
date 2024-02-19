@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.example.a2340anothertry.app-mergeDebugResources-45:/layout/fragment_gallery.xml",
+        "source": "com.example.a2340anothertry.app-main-48:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-mergeDebugResources-45:\\layout\\fragment_gallery.xml",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-mergeDebugResources-45:\\layout\\exam_layout.xml",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\exam_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-mergeDebugResources-45:\\layout\\fragment_c.xml",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\fragment_c.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-mergeDebugResources-45:\\layout\\class_layout.xml",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\class_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-mergeDebugResources-45:\\layout\\fragment_a.xml",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\fragment_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-mergeDebugResources-45:\\layout\\fragment_d.xml",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\fragment_d.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-mergeDebugResources-45:\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-mergeDebugResources-45:\\layout\\fragment_classes.xml",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\fragment_classes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-mergeDebugResources-45:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-mergeDebugResources-45:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-mergeDebugResources-45:\\layout\\content_main.xml",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-mergeDebugResources-45:\\layout\\fragment_c_edit.xml",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\fragment_c_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-mergeDebugResources-45:\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-mergeDebugResources-45:\\layout\\fragment_slideshow.xml",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-mergeDebugResources-45:\\layout\\todo_layout.xml",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\todo_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-mergeDebugResources-45:\\layout\\fragment_b.xml",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\fragment_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-mergeDebugResources-45:\\layout\\assignment_layout.xml",
+        "source": "C:\\Users\\Joshua Watkins\\.gradle\\daemon\\8.2\\com.example.a2340anothertry.app-main-48:\\layout\\assignment_layout.xml"
+    }
+]
